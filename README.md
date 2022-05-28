@@ -28,6 +28,14 @@ b. For the hidden units.
 
 Repeat iterations until convergence in term of the selected error criterion. An iteration includes presenting an instance, calculating activation and modifying weights.
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
 ## Algorithm
 1.Import packages
 
@@ -93,6 +101,15 @@ print("Predicted Output: \n",output)
 
 ## Output:
 <img width="213" alt="image" src="https://user-images.githubusercontent.com/75235554/168828462-0e346096-d7b5-411d-831b-6c1083cc5cf6.png">
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## Result:
 Thus the python program successully implemented multi layer artificial neural network using back propagation algorithm.
